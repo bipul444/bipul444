@@ -22,9 +22,9 @@ Skills: JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **bipul01302@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[[https://lnk.bio/tutul181](https://lnk.bio/tutul181](https://www.instagram.com/bi_pul_jr?igsh=MWg3ODR2ZTltbWU2Ng==))
 
 <h3 align="left">Connect with me:</h3>
 
