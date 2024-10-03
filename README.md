@@ -1,4 +1,4 @@
-![I am bipul444]([https://github.com/bipul444/bipul444/blob/main/code.png](https://github.com/bipul444/bipul444/blob/main/code.png))
+![I am bipul444](https://github.com/bipul444/bipul444/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm ABU BAKKER SIDDIK(Bipul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
